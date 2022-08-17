@@ -1,23 +1,10 @@
-Create a Birthday Card app - Solution Code
+Create a Birthday Card app 
 ==========================================
 
-Solution code for the Android Basics in Kotlin: Create a Birthday Card app codelab.
-Starter code for the Android Basics in Kotlin: Add a cake to your Birthday Card app codelab.
+I have createad a birthday wishes card app using kotlin in android
 
 Introduction
 ------------
-In this codelab, you will create an Android Birthday Card app that displays text, 
-using the Layout Editor in Android Studio.
-
-Pre-requisites
---------------
-
-You need to know:
-- How to create a new app in Android Studio. 
-- How to run an app in the emulator or on your Android device.
+In this app and project i have learn from the kotlin cource offered by google 
 
 
-Getting Started
----------------
-
-1. Download and run the app.
